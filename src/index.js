@@ -3,7 +3,7 @@ import './style.css';
 // import img from './assets/img/awesome_webpack_branding.png';
 
 
-const nombre = 'Benito!'
+const nombre = 'Mundo!'
 
 saludar(nombre);
 
